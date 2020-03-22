@@ -6,7 +6,7 @@ CSV and data rights go to their respective owners
 Please download the html file [here](https://github.com/Mentors4EDU/Gas-Market-Study/blob/master/TableF2-2.html) and open with your browser to view the table.
 
 ## Chart View:
-![N|BIGSTUDYPNG](https://raw.githubusercontent.com/Mentors4EDU/Gas-Market-Study/master/BigStudyPNG.png
+![N|BIGSTUDYPNG](https://raw.githubusercontent.com/Mentors4EDU/Gas-Market-Study/master/BigStudyPNG.png)
 
 In relation the the data:  
 All of the variables are exponenantially growing over time which makes sense. However, some are growing more rapidly than others. For example: GASEXP when from 7.4 to 224.5, while POP went from only 159565 to 293951. Gas went up higher then all the other variables whether in relation to population growth, income, etc. This is true in all variables related to gas whether consumption or pricing. Also, one can look at the standard deviation of GASEXP as 57.5146613546 and notice that it is nearly 8 times its original 7.4 metric.
